@@ -78,4 +78,4 @@ All gene signatures used for UCell scoring are embedded directly in `figures_scr
 
 ## Notes on reproducibility
 
-- Cluster 12 (mouse cell contamination) is removed at the beginning of `figures_script.R`
+- Cluster 12 (mouse cells contamination) is removed at the beginning of `figures_script.R`
